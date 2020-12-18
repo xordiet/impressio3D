@@ -48,29 +48,29 @@ translate([1,1,0]){
 //columna 2
 translate([1,9,0]){
     color([0,1,1])
-    cube([2,1,80]);
+    cube([2,1,50]);
 }
 translate([1,8,0]){
     color([0,1,1])
-    cube([1,2,80]);
+    cube([1,2,50]);
 }
 
 //colunba 3
 translate([9,8,0]){
     color([0,1,1])
-    cube([1,2,80]);
+    cube([1,2,60]);
 }
 translate([8,9,0]){
     color([0,1,1])
-    cube([2,1,80]);
+    cube([2,1,60]);
 }
 
 //colunba 4
 translate([9,1,0]){
     color([0,1,1])
-    cube([1,2,80]);
+    cube([1,2,70]);
 }
 translate([8,1,0]){
     color([0,1,1])
-    cube([2,1,80]);
+    cube([2,1,70]);
 }
